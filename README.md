@@ -23,7 +23,7 @@ A continuación, se muestran algunas vistas de la aplicación:
 
 | Pantalla Principal | Búsqueda de un Pokémon | Pokémon No Encontrado |
 |:---:|:---:|:---:|
-| ![Pantalla Principal](assets/screenshots/mainscreen.jpg) | ![Búsqueda](assets/screenshots/search.jpg) | ![No Encontrado](assets/screenshots/non_existent.jpg) |
+| ![Pantalla Principal](assets/screenshots/non_existent.jpg) | ![Búsqueda](assets/screenshots/search.jpg) | ![No Encontrado](assets/screenshots/mainscreen.jpg) |
 
 ## Ejecución del proyecto
 
