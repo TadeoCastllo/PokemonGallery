@@ -13,6 +13,7 @@ Una aplicación móvil desarrollada en Flutter que funciona como una Pokédex. P
 ## Paquetes Utilizados
 
 El proyecto utiliza los siguientes paquetes de Flutter (definidos en `pubspec.yaml`):
+
 - `http`: Para realizar peticiones HTTP a la API.
 - `flutter_svg`: Para renderizar imágenes en formato SVG directamente desde la red.
 - `cupertino_icons`: Para contar con una amplia gama de iconos.
@@ -21,9 +22,9 @@ El proyecto utiliza los siguientes paquetes de Flutter (definidos en `pubspec.ya
 
 A continuación, se muestran algunas vistas de la aplicación:
 
-| Pantalla Principal | Búsqueda de un Pokémon | Pokémon No Encontrado |
-|:---:|:---:|:---:|
-| ![Pantalla Principal](assets/screenshots/non_existent.jpg) | ![Búsqueda](assets/screenshots/search.jpg) | ![No Encontrado](assets/screenshots/mainscreen.jpg) |
+|                    Pantalla Principal                    |           Búsqueda de un Pokémon           |                 Pokémon No Encontrado                 |
+| :------------------------------------------------------: | :----------------------------------------: | :---------------------------------------------------: |
+| ![Pantalla Principal](assets/screenshots/mainscreen.jpg) | ![Búsqueda](assets/screenshots/search.jpg) | ![No Encontrado](assets/screenshots/non_existent.jpg) |
 
 ## Ejecución del proyecto
 
